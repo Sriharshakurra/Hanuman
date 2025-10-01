@@ -1,0 +1,11 @@
+# Core database
+chromadb==0.5.5
+
+# PDF reading
+pypdf==5.1.0
+
+# Optional (used for file watching if you later add live ingest)
+watchdog==4.0.1
+
+# HTTP requests (built-in urllib is used, but requests is handy for debugging)
+requests==2.32.3
